@@ -39,7 +39,7 @@ The cipher value depends upon the **key.**
 ### Decryption
 
 **D = (x - key) mod 26**  
-The program is written [here](https://github.com/Peris-rana/Cryptography/blob/main/ceaser_cipher.py) please have a look.<br><br>
+The program is written [here](https://github.com/Peris-rana/Cryptography/blob/main/caeser_cipher.py) please have a look.<br><br>
 
 ## References
 
